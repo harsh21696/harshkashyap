@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harsh21696
+- 👋 Hi, I’m @HarshKashyap12
 - 👀 I’m interested in AI and ML.
 - 🌱 I’m currently learning DSA using java and ML using python.
 - 💞️ I’m looking to collaborate on ...
