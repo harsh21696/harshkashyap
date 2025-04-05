@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshKashyap12
-- 👀 I’m interested in AI and ML.
-- 🌱 I’m currently learning DSA using java and ML using python.
+- 👀 FULL STACK | DEVOPS.
+- 🌱 I’m currently learning DSA using java and Gaining knowledge in field of web Dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can drop mail on harshkashyap@1221
 - 😄 Pronouns: ...
